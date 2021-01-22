@@ -1,5 +1,3 @@
-# Delivery Resources
-
 ## Exams
 
 [Exam AZ-104](https://aka.ms/az-104)
