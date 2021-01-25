@@ -47,7 +47,7 @@
 
 [Test & Feedback Extension](https://docs.microsoft.com/en-us/azure/devops/test/provide-stakeholder-feedback?view=azure-devops)
 
-[Azure DevOps Features feedback](https://developercommunity.visualstudio.com/spaces/21/visual-studio-team-services.html?type=idea)
+[Azure DevOps Features feedback](https://developercommunity2.visualstudio.com/home?space=21)
 
 ### GitHub
 
