@@ -37,6 +37,8 @@
 
 [Feedback Azure](https://feedback.azure.com/forums/34192--general-feedback)
 
+[Azure Downloads (SDKs and Tools)](https://azure.microsoft.com/en-us/downloads/)
+
 ### Azure DevOps
 
 [Azure DevOps Blog](https://devblogs.microsoft.com/devops)
