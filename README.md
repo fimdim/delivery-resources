@@ -14,7 +14,9 @@
 
 [Azure Friday](https://friday.azure.com)
 
-[GitHub Learning Lab](https://lab.github.com/)
+[GitHub Learning Lab](https://lab.github.com)
+
+[Azure Charts](https://azurecharts.com)
 
 ## Useful Links
 ### Azure
@@ -31,13 +33,13 @@
 
 [Naming rules and restrictions](https://docs.microsoft.com/azure/azure-resource-manager/management/resource-name-rules)
 
-[Azure SLA](https://azure.microsoft.com/support/legal/sla/)
+[Azure SLA](https://azure.microsoft.com/support/legal/sla)
 
 [Azure QuickStart Template](https://github.com/Azure/azure-quickstart-templates)
 
 [Feedback Azure](https://feedback.azure.com/forums/34192--general-feedback)
 
-[Azure Downloads (SDKs and Tools)](https://azure.microsoft.com/en-us/downloads/)
+[Azure Downloads (SDKs and Tools)](https://azure.microsoft.com/en-us/downloads)
 
 ### Azure DevOps
 
@@ -53,7 +55,7 @@
 
 ### GitHub
 
-[GitHub Blog](https://github.blog/)
+[GitHub Blog](https://github.blog)
 
 [GitHub Status](https://status.github.com)
 
