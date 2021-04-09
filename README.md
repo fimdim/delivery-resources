@@ -1,10 +1,18 @@
 ## Exams
 
-[Exam AZ-104](https://aka.ms/az-104)
+[Microsoft Certified: Azure Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-administrator/)
+- [x] [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
 
-[Exam AZ-204](https://aka.ms/az-204)
+[Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-developer/)
+- [x] [AZ-204](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
 
-[Exam AZ-400](https://aka.ms/az-400)
+[Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
+- [x] [AZ-400](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
+- [x] [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) OR [AZ-204](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
+
+[Microsoft Certified: Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
+- [x] [AZ-303](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
+- [x] [AZ-304](https://docs.microsoft.com/en-us/learn/certifications/exams/az-304)
 
 ## Learn
 
@@ -17,6 +25,8 @@
 [GitHub Learning Lab](https://lab.github.com)
 
 [Azure Charts](https://azurecharts.com)
+
+[Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 
 ## Useful Links
 ### Azure
