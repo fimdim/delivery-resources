@@ -8,7 +8,7 @@
 
 [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
 - [x] [AZ-400](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
-- [x] [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) OR [AZ-204](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
+- [x] [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) **OR** [AZ-204](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
 
 [Microsoft Certified: Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
 - [x] [AZ-303](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
@@ -42,6 +42,8 @@
 [Azure limits and quotas](https://docs.microsoft.com/azure/azure-resource-manager/management/azure-subscription-service-limits)
 
 [Naming rules and restrictions](https://docs.microsoft.com/azure/azure-resource-manager/management/resource-name-rules)
+
+[Recommended abbreviations for Azure resource types](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations)
 
 [Azure SLA](https://azure.microsoft.com/support/legal/sla)
 
