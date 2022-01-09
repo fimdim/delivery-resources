@@ -7,12 +7,10 @@
 - [x] [AZ-204](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
 
 [Microsoft Certified: DevOps Engineer Expert](https://docs.microsoft.com/en-us/learn/certifications/devops-engineer/)
-- [x] [AZ-400](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400)
-- [x] [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) **OR** [AZ-204](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)
+- [x] [AZ-400](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400) **AND** **(**[AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) **OR** [AZ-204](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)**)**
 
 [Microsoft Certified: Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
-- [x] [AZ-303](https://docs.microsoft.com/en-us/learn/certifications/exams/az-303)
-- [x] [AZ-304](https://docs.microsoft.com/en-us/learn/certifications/exams/az-304)
+- [x] [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) **AND** [AZ-305](https://docs.microsoft.com/en-us/learn/certifications/exams/az-305)
 
 ## Learn
 
