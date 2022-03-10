@@ -12,6 +12,9 @@
 [Microsoft Certified: Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
 - [x] [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) **AND** [AZ-305](https://docs.microsoft.com/en-us/learn/certifications/exams/az-305)
 
+[Microsoft Certified: Identity and Access Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/identity-and-access-administrator/)
+- [x] [SC-300](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300)
+
 ## Learn
 
 [Microsoft Docs](https://docs.microsoft.com)
