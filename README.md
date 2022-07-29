@@ -25,8 +25,6 @@
 
 [GitHub Learning Lab](https://lab.github.com)
 
-[Azure Charts](https://azurecharts.com)
-
 [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 
 ## Useful Links
