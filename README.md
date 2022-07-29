@@ -10,7 +10,7 @@
 - [x] [AZ-400](https://docs.microsoft.com/en-us/learn/certifications/exams/az-400) **AND** **(**[AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) **OR** [AZ-204](https://docs.microsoft.com/en-us/learn/certifications/exams/az-204)**)**
 
 [Microsoft Certified: Azure Solutions Architect Expert](https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect/)
-- [x] [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104) **AND** [AZ-305](https://docs.microsoft.com/en-us/learn/certifications/exams/az-305)
+- [x] [AZ-305](https://docs.microsoft.com/en-us/learn/certifications/exams/az-305) **AND** [AZ-104](https://docs.microsoft.com/en-us/learn/certifications/exams/az-104)
 
 [Microsoft Certified: Identity and Access Administrator Associate](https://docs.microsoft.com/en-us/learn/certifications/identity-and-access-administrator/)
 - [x] [SC-300](https://docs.microsoft.com/en-us/learn/certifications/exams/sc-300)
