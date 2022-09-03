@@ -29,6 +29,8 @@
 
 [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 
+[Exam Readiness Zone](https://docs.microsoft.com/shows/exam-readiness-zone/)
+
 ## Useful Links
 ### Azure
 
