@@ -17,15 +17,11 @@
 
 ## Learn
 
-[Microsoft Docs](https://docs.microsoft.com)
-
 [Microsoft Learn](https://microsoft.com/learn)
 
 [Azure Friday](https://friday.azure.com)
 
 [GitHub Learning Lab](https://lab.github.com)
-
-[Azure Charts](https://azurecharts.com)
 
 [Azure Architecture Center](https://docs.microsoft.com/en-us/azure/architecture/)
 
@@ -63,8 +59,6 @@
 [Azure DevOps Status](https://status.dev.azure.com)
 
 [Azure DevOps Pricing](https://azure.microsoft.com/en-us/pricing/details/devops/azure-devops-services)
-
-[Test & Feedback Extension](https://docs.microsoft.com/en-us/azure/devops/test/provide-stakeholder-feedback?view=azure-devops)
 
 [Azure DevOps Features feedback](https://developercommunity2.visualstudio.com)
 
